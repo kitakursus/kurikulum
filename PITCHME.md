@@ -43,6 +43,9 @@
 - Research (Existing Data, User Persona, User Research, Competitor Research, UI/UX Trends Research) <!-- .element: class="fragment" -->
 - Data Analysis (Kategori Masalah, Finalisasi Fitur, User Flow) <!-- .element: class="fragment" -->
 - Concept (Warna, Typography) <!-- .element: class="fragment" -->
+
+---
+
 - Sketch & Design (Wireframe, Hi-Fi Mockup) <!-- .element: class="fragment" -->
 - Testing (Prototyping, Usability Testing) <!-- .element: class="fragment" -->
 - Evaluate <!-- .element: class="fragment" -->
