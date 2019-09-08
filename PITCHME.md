@@ -8,6 +8,6 @@
 
 #### Materi
 
-- Intro to UI/UX Design
-- UI Design Basic
-- Membuat App Video Streaming
+- Intro to UI/UX Design <!-- .element: class="fragment" -->
+- UI Design Basic <!-- .element: class="fragment" -->
+- Membuat App Video Streaming <!-- .element: class="fragment" -->
