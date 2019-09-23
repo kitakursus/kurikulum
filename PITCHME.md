@@ -51,6 +51,8 @@
 - Evaluate <!-- .element: class="fragment" -->
 - Implementation (Style Guide, User Flow & Mockup Flow, States of UI Screens, Integration with Zeplin, Screen Interaction) <!-- .element: class="fragment" -->
 
+---
+
 ## Learn Web Development in 2019
 
 ---
