@@ -56,3 +56,15 @@
 ## Learn Web Development in 2019
 
 ---
+
+### Dapat diikuti oleh tingkat pemula, menengah dan mahir sekalipun
+
+---
+
+#### Materi
+
+- Getting Started: Where to begin if you are brand new to coding <!-- .element: class="fragment" -->
+- General Coding & Tools: Programming concepts every dev should know <!-- .element: class="fragment" -->
+- Frontend Development: Learn how to build, implement user interfaces (UI) <!-- .element: class="fragment" -->
+- Backend Development: Learn how to build API’s and write server code <!-- .element: class="fragment" -->
+- Job Advice & Wrap Up : Quick tips on how to search for a job <!-- .element: class="fragment" -->
