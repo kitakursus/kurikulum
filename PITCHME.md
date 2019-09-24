@@ -66,5 +66,46 @@
 - Getting Started: Where to begin if you are brand new to coding <!-- .element: class="fragment" -->
 - General Coding & Tools: Programming concepts every dev should know <!-- .element: class="fragment" -->
 - Frontend Development: Learn how to build, implement user interfaces (UI) <!-- .element: class="fragment" -->
-- Backend Development: Learn how to build API’s and write server code <!-- .element: class="fragment" -->
+- Backend: Learn how to build API’s and write server code <!-- .element: class="fragment" -->
 - Job Advice & Wrap Up : Quick tips on how to search for a job <!-- .element: class="fragment" -->
+
+---
+
+##### Getting Started with Coding
+
+- Mulai dari dulu mana sih kita belajar ngoding? <!-- .element: class="fragment" -->
+- JavaScript is easy language to learn <!-- .element: class="fragment" -->
+
+---
+
+##### General Coding and Tools
+
+- Command Line <!-- .element: class="fragment" -->
+- Text Editor <!-- .element: class="fragment" -->
+- Git and Version Control <!-- .element: class="fragment" -->
+- Model-View-Controller (MVC) & REST <!-- .element: class="fragment" -->
+
+---
+
+##### Frontend Development
+
+- Mengenal Frontend Development <!-- .element: class="fragment" -->
+- Mengapa harus belajar Frontend? <!-- .element: class="fragment" -->
+- Belajar dasar-dasar Frontend <!-- .element: class="fragment" -->
+- Mengenal tools Frontend Developer <!-- .element: class="fragment" -->
+
+---
+
+##### Backend Development
+
+- Mengenal Backend Development <!-- .element: class="fragment" -->
+- Mengapa harus belajar Backend? <!-- .element: class="fragment" -->
+- Belajar dasar-dasar Backend <!-- .element: class="fragment" -->
+- Mengenal tools Frontend Developer <!-- .element: class="fragment" -->
+
+---
+
+##### Job Advice & Wrap Up
+
+- Tips mencari kerja sebagai Developer
+- Growth as a professional Developer
