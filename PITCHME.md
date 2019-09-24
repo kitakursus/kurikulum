@@ -107,5 +107,5 @@
 
 ##### Job Advice & Wrap Up
 
-- Tips mencari kerja sebagai Developer
-- Growth as a professional Developer
+- Tips mencari kerja sebagai Developer <!-- .element: class="fragment" -->
+- Growth as a professional Developer <!-- .element: class="fragment" -->
